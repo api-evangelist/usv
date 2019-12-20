@@ -1,0 +1,61 @@
+{
+    "name": "USV",
+    "description": "Union Square Ventures, is an American New York-based venture capital firm, that manages assets totaling $1 billion as of March 2016.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2702-union-square-ventures.jpg",
+    "tags": [
+        "api lifeycle",
+        "have api",
+        "venture capital"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/usv\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Union Square Ventures",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2702-union-square-ventures.jpg",
+            "humanURL": "http:\/\/usv.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/union-square-ventures-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.usv.com\/feed\/new"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/union-square-ventures"
+        },
+        {
+            "type": "Email",
+            "url": "andy@usv.com"
+        },
+        {
+            "type": "Email",
+            "url": "dani.grant@usv.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/usv"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/usv.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.usv.com\/"
+        }
+    ]
+}
