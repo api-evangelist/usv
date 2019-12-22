@@ -7,8 +7,8 @@
         "have api",
         "venture capital"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/usv\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -22,13 +22,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/union-square-ventures-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/usv\/master\/union-square-ventures-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/usv\/master\/union-square-ventures-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog RSS",
             "url": "https:\/\/www.usv.com\/feed\/new"
